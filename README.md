@@ -5,11 +5,11 @@
 - The learning outcomes of the project were dealing with large data, understanding of website structure and HTTP concepts.
 
 
-####List of Urls from book_list_urls_for_idefix.py ####
-![txt](example/ss/txt.jpg)
+#### List of Urls from book_list_urls_for_idefix.py 
+![txt](example/ss/txt.JPG)
 
-####example of extracted book detail from book_detail_url_for_idefix.py ####
-![csv](example/ss/csv.jpg)
+#### Example of extracted book detail from book_detail_url_for_idefix.py  
+![csv](example/ss/csv.JPG)
 
-####example of book extracted covers  ####
-![books](example/ss/books.jpg)
+#### Example of book extracted covers  
+![books](example/ss/books.JPG)
